@@ -6,7 +6,7 @@
 
 ## 脚本说明
 
-- 本脚本适用于mac系统，不适用于windows，Windows可参考[这里]([Abeautifulsnow/navicat-premium-crack: This script is used to crack navicat premium application for another 14 days trial. (github.com)](https://github.com/Abeautifulsnow/navicat-premium-crack/))
+- 本脚本适用于mac系统，不适用于windows，Windows可参考[这里]([Abeautifulsnow/navicat-premium-crack: This script is used to crack navicat premium application for another 14 days trial. (github.com)](https://github.com/Abeautifulsnow/navicat-premium-crack/)
 - 不怕麻烦的可以每次试用过期手动执行一下`reset_navicat.sh`就行，但是我选择是用`launchctl`自动执行脚本
 
 ## 使用说明
