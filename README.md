@@ -11,7 +11,7 @@
 
 ## 使用说明
 
-1. 首先将以下两个文件下载到本地
+1. 首先[下载](https://gitee.com/chaofan2685_admin/reset_navicat_premium_for_mac/releases)解压得到以下两个文件
    
    - com.chaofan.reset.navicat.premium.trial.period.plist
    - reset_navicat.sh
