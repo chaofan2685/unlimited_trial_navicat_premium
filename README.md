@@ -17,7 +17,7 @@
 
 ### Mac
 
-1. 首先[下载](https://gitee.com/chaofan2685_admin/reset_navicat_premium_for_mac/releases)`reset_navicat.zip`，解压得到以下两个文件
+1. 首先[下载](https://github.com/chaofan2685/reset_navicat_premium/releases)`reset_navicat.zip`，解压得到以下两个文件
    
    - com.chaofan.reset.navicat.premium.trial.period.plist
    - reset_navicat.sh
@@ -77,7 +77,7 @@
 
 ### Win
 
-1. 首先[下载](https://gitee.com/chaofan2685_admin/reset_navicat_premium_for_mac/releases)`reset_navicat.exe`，双击执行即可即可重置NP16的试用期
+1. 首先[下载](https://github.com/chaofan2685/reset_navicat_premium/releases)`reset_navicat.exe`，双击执行即可即可重置NP16的试用期
 2. `Win+R`打开运行窗口，输入`taskschd.msc`点确定打开`任务计划程序`
 3. 鼠标右击`任务计划程序库`，选择`创建基本任务(B)...`，打开`创建基本任务向导`窗口
 4. 在`名称(A):`处填写一个自己喜欢的名称，之后点击`下一步(N) >`
