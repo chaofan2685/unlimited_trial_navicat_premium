@@ -1,3 +1,7 @@
+# 这里不再维护了，请转至：https://gitee.com/ProgHub/unlimited_trial_navicat_premium
+
+
+
 # Mac/Win定时自动重置NavicatPremium16试用期
 
 ## 免责声明
